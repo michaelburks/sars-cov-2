@@ -1,4 +1,4 @@
-# Music of SARS-CoV-2
+# Song of SARS-CoV-2
 
 Play by running `$ python player.py`
 
