@@ -1,6 +1,6 @@
 # Song of SARS-CoV-2
 
-Listen on [SoundCloud](https://soundcloud.com/skrubstudio/sars-cov-2).
+Listen on my [SoundCloud](https://soundcloud.com/skrubstudio/sars-cov-2)!
 
 
 MIDI file available [here](https://github.com/michaelburks/sars-cov-2/blob/master/output/sars-cov-2.mid) or play by running `$ python player.py`.
