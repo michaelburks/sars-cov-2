@@ -1,6 +1,5 @@
-# Song of SARS-CoV-2
-
-Listen on my [SoundCloud](https://soundcloud.com/skrubstudio/sars-cov-2)!
+# SARS-CoV-2
+Music generated from the genome of the SARS-CoV-2 coronavirus. Listen on my [SoundCloud](https://soundcloud.com/skrubstudio/sars-cov-2)!
 
 
 MIDI file available [here](https://github.com/michaelburks/sars-cov-2/blob/master/output/sars-cov-2.mid) or generate the audio directly by running `$ python player.py`.
