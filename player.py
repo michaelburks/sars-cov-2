@@ -19,5 +19,5 @@ if (merge_repeated_nucleotides):
   for nuc_seg in genome.segments():
     player.play_wave(synthesizer.generate_constant_wave(nuc_freqs[nuc_seg[0]], l * nuc_seg[1]))
 else:
-  for nucleotide in genome.string():
+  for nucleotide in genome.sequence():
     player.play_wave(synthesizer.generate_constant_wave(nuc_freqs[nucleotide], l))

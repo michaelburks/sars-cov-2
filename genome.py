@@ -1,4 +1,4 @@
-def string():
+def sequence():
   '''
   Returns the genome sequence as a raw string.
   '''
@@ -10,7 +10,7 @@ def segments():
   '''
   Returns the genome sequence as a list of segments (nucleotide, number of repetitions).
   '''
-  genome_str = string()
+  genome_str = sequence()
   genome_segments = []
 
   seg = (genome_str[0], 1)
