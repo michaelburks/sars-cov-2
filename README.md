@@ -1,8 +1,7 @@
 # SARS-CoV-2
 Music generated from the genome of the SARS-CoV-2 coronavirus. Listen on my [SoundCloud](https://soundcloud.com/skrubstudio/sars-cov-2)!
 
-The DNA transcription is composed of four nucleotides, symbolized by the letters A, C, G, and T.
-A, C, and G have natural musical analogues: I map them to A3, C4, and G4. For T, I simply counted letters up the scale from A3 to arrive at F6. Each nucleotide is played as a 1/32 note at 150 BPM, such that the entire work lasts about 25 minutes. Long enough to grow tedious yet it still does come to an end.
+The DNA transcription is composed of four nucleotides, symbolized by the letters A, C, G, and T. A, C, and G have natural musical analogues: I map them to A3, C4, and G4. For T, I simply counted letters up the scale from A3 to arrive at F6. Each nucleotide is played as a 1/32 note at 150 BPM such that the entire work lasts about 25 minutes. It certainly becomes tedious but eventually does come to an end.
 
 MIDI file available [here](https://github.com/michaelburks/sars-cov-2/blob/master/output/sars-cov-2.mid) or generate the audio directly by running `$ python player.py`.
 
