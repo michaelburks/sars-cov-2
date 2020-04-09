@@ -1,6 +1,6 @@
 def sequence():
   '''
-  Returns the genome sequence as a raw string.
+    Returns the genome sequence as a raw string.
   '''
   with open("data/genome.txt", 'r') as input:
     genome = input.readline()
@@ -8,7 +8,7 @@ def sequence():
 
 def segments():
   '''
-  Returns the genome sequence as a list of segments (nucleotide, number of repetitions).
+    Returns the genome sequence as a list of segments (nucleotide, number of repetitions).
   '''
   genome_str = sequence()
   genome_segments = []
