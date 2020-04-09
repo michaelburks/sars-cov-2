@@ -1,6 +1,6 @@
 # Song of SARS-CoV-2
 
-MIDI file available at [output/sars-cov-2.mid](https://github.com/michaelburks/sars-cov-2/blob/master/output/sars-cov-2.mid)
+MIDI file available at [output/sars-cov-2.mid](https://github.com/michaelburks/sars-cov-2/blob/master/output/sars-cov-2.mid).
 
 Play by running `$ python player.py`
 
